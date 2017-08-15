@@ -13,4 +13,4 @@ A core hypothesis of cogrammers is that the program should directly benefit all 
 The community aspect is incredibly important. Cogrammers is more than just a technical handbook. Everything we do is designed to help all of us grow as individuals. By learning empathy, communication, and teamworking skills, we become better people. We become better cohort mates, and better community members.
 
 ### Inclusive by default
-If our mission is to be accessible, we must also be inclusive. All people who want to, should be able to be cogrammers. Our society has many issues, some of them exasperated by the tech industry. Regardless, we will aspire to have this awareness in everything we do, in order to be as inclusive as possible.
+If our mission is to be accessible, we must also be inclusive. All people who want to, should be able to be cogrammers. Our society has many issues, some of them exacerbated by the tech industry. Regardless, we will aspire to have this awareness in everything we do, in order to be as inclusive as possible.
